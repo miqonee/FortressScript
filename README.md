@@ -1,6 +1,6 @@
 # Server Security Setup Script
 
-*Read this in other languages: [Русский](README.md), [English](README.en.md)*
+*Read this in other languages: [Deutsch](README.de.md), [English](README.en.md)*
 
 ---
 
