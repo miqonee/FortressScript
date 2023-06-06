@@ -1,6 +1,6 @@
 # Skript zur Einrichtung der Serversicherheit
 
-*Lesen Sie dies in anderen Sprachen: [Русский](README.md), [English](README.en.md)*
+*Lesen Sie dies in anderen Sprachen: [Русский](README.md), [English](README.en.md), [Deutsch](README.de.md)*
 
 ---
 
